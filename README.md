@@ -5,7 +5,7 @@ MyLane is a python program that applies lane detection to a given video file.
 * Have the following python3 modules installed: OpenCV, Numpy, & Tkinter
 
 ```bash
-pip3 install opencv-python numpy tkinter
+pip3 install opencv-python numpy tkinter scikit-image
 ```
 
 ## Instructions
