@@ -9,7 +9,7 @@ pip3 install opencv-python numpy tkinter scikit-image
 ```
 
 ## Instructions
-1. Run program
+1. Run the program
 ```bash
 ./lane.py
 ```
